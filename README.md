@@ -1,5 +1,5 @@
 ## Personal Details
-- 👋 Hi, I’m @DoubleECoding but I go by Eddie.
+- 👋 Hi, I’m Eduardo but I go by Eddie.
 - 👀 I’m interested in learning to code and program in multiple languages.
 - 🌱 I’m currently learning Java and JavaFX.
 - 😄 Pronouns: He/Him
