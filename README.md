@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @DoubleECoding
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Personal Details
+- 👋 Hi, I’m @DoubleECoding but I go by Eddie.
+- 👀 I’m interested in learning to code and program in multiple languages.
+- 🌱 I’m currently learning Java and JavaFX.
+- 😄 Pronouns: He/Him
+
+## Fun Facts
+- I live on a ranch in the middle of nowhere.
+- My dogs names are my favorite ice cream.
+- I watch a LOT of movies.
 
 <!---
 DoubleECoding/DoubleECoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
